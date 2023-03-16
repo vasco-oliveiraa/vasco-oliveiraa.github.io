@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\public",
+    "\\src",
+    "\\src\\assets",
+    "\\src\\assets\\configs",
+    "\\src\\components",
+    "\\src\\components\\NavBar",
+    "\\src\\components\\Tags",
+    "\\src\\pages\\Skills"
+  ],
+  "SelectedNode": "\\src\\assets\\configs\\menuConfig.js",
+  "PreviewInSolutionExplorer": false
+}
