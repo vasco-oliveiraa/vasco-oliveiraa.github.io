@@ -8,7 +8,7 @@ const homeConfig = {
 
     greeting:
         <h1 className="heading">
-            Hi! I'm <strong className="main-name"> Rodrigo Arenas</strong>
+            Hi! I'm <strong className="main-name"> Vasco Oliveira</strong>
         </h1>,
     titles: [
         "Data Scientist",
@@ -27,23 +27,21 @@ const homeConfig = {
     workTimeline: [
         {
             id: "work-3",
-            title: "Sr Data Scientist",
-            company: "Globant",
-            description: "Build AutoML models and make them available to non-technical " +
-                "users from a graphical interface.",
-            date: "2021-present",
+            title: "Master in Business Analytics & Big Data",
+            company: "IE University - School of Science & Technology",
+            description: "Test description for this.",
+            date: "2022-Present",
             icon: <DiCodeigniter/>,
-            tags: ["ml", "automl", "python", "docker", "redshift", "superset"]
+            tags: ["keywords", "other skills", "python", "sql", "machine learning"]
         },
         {
             id: "work-2",
-            title: "BI Manager",
-            company: "Rappi",
-            description: "Leading a team of analysts and data scientists to execute different projects, " +
-                "including the construction of ETLs, data lakes, data warehouses, and machine learning models.",
-            date: "2019-2021",
+            title: "Business Operations Working Student",
+            company: <a href="https://www.appinio.com/">Appinio</a>,
+            description: "Summary of job description & achievements",
+            date: "2022-2023",
             icon: <FaMobileAlt/>,
-            tags: ["ml", "airflow", "python", "docker", "snowflake", "postgres", "azure"]
+            tags: ["HubSpot", "python", "docker", "snowflake", "postgres", "azure"]
         },
         {
             id: "work-1",

@@ -1,15 +1,15 @@
 {
   "ExpandedNodes": [
     "",
-    "\\public",
     "\\src",
     "\\src\\assets",
     "\\src\\assets\\configs",
     "\\src\\components",
-    "\\src\\components\\NavBar",
+    "\\src\\components\\Cards",
     "\\src\\components\\Tags",
-    "\\src\\pages\\Skills"
+    "\\src\\pages",
+    "\\src\\pages\\Home"
   ],
-  "SelectedNode": "\\src\\assets\\configs\\menuConfig.js",
+  "SelectedNode": "\\src\\assets\\configs\\homeConfig.js",
   "PreviewInSolutionExplorer": false
 }
